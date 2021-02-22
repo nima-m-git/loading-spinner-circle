@@ -1,2 +1,2 @@
-# loading-spinner-circle
+# spinning-square-circles
 Created with CodeSandbox
